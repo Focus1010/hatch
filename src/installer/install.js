@@ -99,6 +99,8 @@ async function writeManifest() {
       "frontend/wagmi-scaffold",
       "frontend/miniapp",
       "frontend/farcaster-frame",
+      "protocols/clanker",
+      "protocols/bankr",
     ],
   };
 
